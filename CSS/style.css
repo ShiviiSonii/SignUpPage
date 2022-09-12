@@ -1,0 +1,89 @@
+body {
+    background-color:#CEE5D0;
+    border-style:solid;
+    border-color: #94B49F;
+    color:black;
+    border-radius:40px;
+}
+.firstbox {
+    background-color:#94B49F; 
+    display:block;
+    margin:100px 200px 100px 200px;
+    padding-left:10%;
+    border-radius:40px;
+    height:500px;
+    width:500px;
+    left:40px;
+    position: relative;
+    
+}
+.secondbox {
+    display:inline-block;
+    position:absolute;
+    top:0px;
+    left:500px;
+}
+img {
+  height:503px;
+  width:503px;
+  border-radius:0  40px  40px 0;
+}
+
+h1 {
+  position:relative;
+  right:130px;
+  margin-bottom:70px;
+}
+h2 {
+  position:relative;
+  left:60px;
+  margin-bottom:3px;
+}
+.enter {
+  position: relative;
+  left:70px;
+  font-size: smaller;
+}
+p {
+  margin-bottom:0px;
+  font-size: smaller;
+}
+input {
+  width:250px;
+}
+.checkbox {
+  position: relative;
+  right:275px;
+  top:35px;
+  width:30px;
+}
+.shift {
+  margin-left:15px;
+}
+.password {
+  position: relative;
+  left:170px;
+  bottom:40px;
+  font-size: smaller;
+  margin-top:0;
+}
+button {
+  position: relative;
+  right:90px;
+  width:50%;
+  color:white;
+  background-color:green;
+  border-color: green;
+  margin-top:20px;
+}
+.dont {
+  margin-left:40px;
+  margin-top:30px;
+}
+.lastpara {
+  margin-top:60px;
+  margin-left:90px;
+}
+input {
+  border-radius:5px;
+}
